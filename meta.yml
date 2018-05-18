@@ -8,6 +8,7 @@ language: gobstones
 id_format: "%05d"
 order:
 - 2201
+- 2202
 - 100
 - 200
 - 300
@@ -29,4 +30,3 @@ order:
 - 2000
 - 2100
 - 2200
-- 2202
