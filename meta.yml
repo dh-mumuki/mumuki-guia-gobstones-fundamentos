@@ -3,7 +3,20 @@ name: Fundamentos
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info:
 language: gobstones
 id_format: "%05d"
-order: []
+order:
+- 100
+- 200
+- 300
+- 400
+- 500
+- 550
+- 1401
+- 600
+- 700
+- 800
+- 1300
+- 1402
+- 1403
