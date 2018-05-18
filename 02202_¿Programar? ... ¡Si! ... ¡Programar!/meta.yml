@@ -1,0 +1,16 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: 'A través de un idioma que tanto ella como las personas podamos entender:  los
+    lenguajes de programación.'
+  checked: true
+- value: 'A través de un idioma que tanto ella como las personas podamos entender:  inglés.'
+  checked: false
+- value: A través de cálculos matemáticos.
+  checked: false
