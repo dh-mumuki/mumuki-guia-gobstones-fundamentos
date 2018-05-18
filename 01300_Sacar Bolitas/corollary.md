@@ -1,0 +1,1 @@
+¿Y si no hubiera ninguna bolita para sacar? :frowning:
