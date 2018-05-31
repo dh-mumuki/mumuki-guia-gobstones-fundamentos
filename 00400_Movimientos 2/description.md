@@ -14,10 +14,10 @@ Algunos ejemplos de `program`s:
 <table class= "table" style="width:100%">
   <tbody>
   <tr>
-    <td style="text-align: center">  
-<pre class="highlight gobstones"><code><span class="kr">program</span><span class="w"> </span>{<span class="w">
-</span>}<span class="w">
-</span></code></pre>
+    <td style="text-align: left">  
+      <pre class="highlight gobstones"><code><span class="kr">program</span><span class="w"> </span>{<span class="w">
+      </span>}<span class="w">
+      </span></code></pre>
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
     <td style="text-align: center">
