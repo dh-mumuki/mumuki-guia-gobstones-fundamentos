@@ -16,7 +16,7 @@ Algunos ejemplos de `program`s:
   <tr>
     <td style="text-align: left">  
       <pre class="highlight gobstones"><code>
-      program {
+      <span class="kr">program {</span>
       }
       </code></pre>
     </td>
