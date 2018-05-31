@@ -20,6 +20,6 @@ program {
 }
 ```
 
-el cabezal colocará en la celda actual tres bolitas rojas, una azul y una verde.
+El cabezal colocará en la celda actual tres bolitas rojas, una azul y una verde.
 
 > ¡Escribí este programa en el editor y fijate cómo queda el tablero!
