@@ -22,7 +22,9 @@ Por ejemplo, este es un tablero con una bolita roja y una negra:
 Además de moverse, el cabezal también puede poner bolitas en la **celda actual**. Para eso contamos con la operación `Poner`, que le dice al cabezal que deposite una bolita del color dado:
 
 ```gobstones
-
+program {
+  Poner(Rojo)    
+}
 ```
 
 > ¡Probá este programa! Escribí el código en el editor, envialo y verás lo que pasa al ejecutarlo sobre este tablero:
