@@ -15,11 +15,10 @@ Algunos ejemplos de `program`s:
   <tbody>
   <tr>
     <td style="text-align: center">  
-      <gs-board>
-        GBB/1.0
-        size 3 3
-        head 0 0
-      </gs-board>
+```gobstones
+program {
+}
+```
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
     <td style="text-align: center">
