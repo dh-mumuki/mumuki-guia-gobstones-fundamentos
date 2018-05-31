@@ -2,4 +2,4 @@ No dejes de tener en cuenta que nos estamos comunicando con una máquina. Cuando
 
 La máquina sigue estando ahí, y en realidad cuando ejecutamos nuestro programa le estamos diciendo a la máquina lo que tiene que hacer.
 
-En el próximo ejercicio, veremos como decirle que haga otra cosa distinta a `Mover(Norte)`. :tada:
+En el próximo ejercicio, veremos como decirle que haga otra cosa distinta a `Mover(Norte)` :tada:
