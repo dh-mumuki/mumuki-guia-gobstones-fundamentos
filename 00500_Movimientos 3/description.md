@@ -31,4 +31,4 @@ Como te imaginarás, el cabezal no sólo se puede mover hacia el Norte, y un pro
   <tbody>
 </table>
 
-Recordá que el comando que mueve el cabezal se llama `Mover` (ni `mOvEr`, ni `mover`, ni `MOVER`). ¡**Respetar la sintaxis es muy importante**! Si no lo hacés, el programá no andará :fearful:.
+Recordá que el comando que mueve el cabezal se llama `Mover` (ni `mOvEr`, ni `mover`, ni `MOVER`). ¡**Respetar la sintaxis es muy importante**! Si no lo hacés, el programá no andará :fearful:
