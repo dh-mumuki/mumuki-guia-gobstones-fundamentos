@@ -1,4 +1,5 @@
 En este ejercicio vamos a aprender una de las órdenes que podemos darle a la máquina: **mover el cabezal**. En el contexto de nuestros tableros, le vamos a indicar al cabezal que se tiene que mover en una cierta dirección usando como referencia los puntos cardinales: 
+
 * norte (*arriba*)
 * sur (*abajo*)
 * oeste (*izquierda*)
