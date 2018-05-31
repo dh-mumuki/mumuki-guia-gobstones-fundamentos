@@ -1,4 +1,4 @@
-En este ejercicio vamos a aprender una de las órdenes que podemos darle a la máquina: mover el cabezal. Para eso, le indicaremos al cabezal la dirección en la que tiene que moverse usando los puntos cardinales:
+En este ejercicio vamos a aprender una de las órdenes que podemos darle a la máquina: **mover el cabezal**. Para eso, le indicaremos al cabezal la dirección en la que tiene que moverse usando los puntos cardinales:
 
 * Norte (arriba)
 * Sur (abajo)
