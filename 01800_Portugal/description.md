@@ -1,4 +1,4 @@
-> Escribí un programa que dibuje una bandera portuguesa, que se ve así:
+Escribí un programa que dibuje una bandera portuguesa, que se ve así:
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" width="70">
 

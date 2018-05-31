@@ -15,14 +15,35 @@ Algunos ejemplos de `program`s:
   <tbody>
   <tr>
     <td style="text-align: left">  
-      <pre class="highlight gobstones"><code>
-      <span class="kr">program {</span>
-      }
-      </code></pre>
+      <pre class="highlight gobstones"><code><span class="kr">program </span>{
+      }</code></pre>
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
     <td style="text-align: left">
-(no hace nada)
+No hace nada
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: left">  
+      <pre class="highlight gobstones"><code><span class="kr">program </span>{
+        Mover(Norte)
+      }</code></pre>
+    </td>
+    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
+    <td style="text-align: left">
+Mueve el cabezal una posición hacia el norte
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: left">  
+      <pre class="highlight gobstones"><code><span class="kr">program </span>{
+        Mover(Norte)
+        Mover(Norte)
+      }</code></pre>
+    </td>
+    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
+    <td style="text-align: left">
+Mueve el cabezal dos posiciones hacia el norte
     </td>
   </tr>
   <tbody>
