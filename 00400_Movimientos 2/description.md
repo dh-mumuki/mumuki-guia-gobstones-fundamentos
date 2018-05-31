@@ -50,7 +50,7 @@ Mueve el cabezal dos posiciones hacia el norte
 
 
 
-> Sabiendo ésto, escribí un programa que en un tablero de 2x4 con el cabezal en el origen (la celda de abajo a la izquierda), mueva el cabezal tres veces hacia el norte:
+> Sabiendo ésto, escribí un programa que mueva el cabezal tres veces hacia el norte, en un tablero de 2x4 con el cabezal en el origen (la celda de abajo a la izquierda):
 
 <table class= "table" style="width:100%">
   <thead>
