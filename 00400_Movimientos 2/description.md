@@ -6,7 +6,7 @@ La sintaxis de un `program` es bastante simple:
 
 1. escribimos una línea (renglón) que diga `program` (en minúscula), seguido de una llave de apertura: `{`
 1. a continuación, los comandos: uno en cada línea
-1. y finalmente, una última llave que cierra la que abrimos anteriormente `}`
+1. y finalmente, una última llave que cierra la que abrimos anteriormente: `}`
 
 Algunos ejemplos de `program`s:
 
