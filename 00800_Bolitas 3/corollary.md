@@ -1,0 +1,2 @@
+Dijimos que no te debe importar cómo es el tablero, ni dónde está el cabezal.  
+Si tu programa está bien escrito, y resuelve el problema de poner 4 rojas y 3 negras en la celda actual, este puede funcionar para **cualquier tablero**.
