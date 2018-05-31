@@ -8,5 +8,5 @@ Estos tableros pueden ser de cualquier tamaño, por ejemplo:
 
 Para cada ejercicio de esta primera sección (*fundamentos*) vamos a necesitar un tablero sobre el cual **ejecutar** nuestro **programa**. Lo interesante es que un mismo programa puede ejecutarse sobre distintos tableros, potencialmente produciendo resultados diferentes.
 
-> No te preocupes, nosotros nos vamos a encargar de crear los tableros por vos en cada uno de los ejercicios. Y para que veas que no mentimos, presioná el botón Continuar, y generaremos tu primer tablero: un tablero de 3x3.
+> No te preocupes, nosotros nos vamos a encargar de crear los tableros por vos en cada uno de los ejercicios. Y para que veas que no mentimos, presioná el botón **Continuar**, y generaremos tu primer tablero: un tablero de 3x3.
 
