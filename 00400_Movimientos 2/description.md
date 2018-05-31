@@ -15,41 +15,47 @@ Algunos ejemplos de `program`s:
   <tbody>
   <tr>
     <td style="text-align: left">  
-      <pre class="highlight gobstones"><code><span class="kr">program </span>{
-}</code></pre>
+      <pre class="highlight gobstones"><code>
+      <span class="kr">program {</span>
+      }
+      </code></pre>
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
     <td style="text-align: left">
-No hace nada
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: left">  
-      <pre class="highlight gobstones"><code><span class="kr">program </span>{
-  Mover(Norte)
-}</code></pre>
-    </td>
-    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
-    <td style="text-align: left">
-Mueve el cabezal una posición hacia el norte
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: left">  
-      <pre class="highlight gobstones"><code><span class="kr">program </span>{
-  Mover(Norte)
-  Mover(Norte)
-}</code></pre>
-    </td>
-    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
-    <td style="text-align: left">
-Mueve el cabezal dos posiciones hacia el norte
+(no hace nada)
     </td>
   </tr>
   <tbody>
 </table>
 
 
+
+
+
+```gobstones
+program {
+}
+```
+
+(no hace nada)
+
+
+```gobstones
+program {
+  Mover(Norte)
+}
+```
+
+(mueve el cabezal una posición hacia el norte)
+
+```gobstones
+program {
+  Mover(Norte)
+  Mover(Norte)
+}
+```
+
+(mueve el cabezal dos posiciones hacia el norte)
 
 > Sabiendo ésto, escribí un programa que en un tablero de 2x4 con el cabezal en el origen (la celda de abajo a la izquierda), mueva el cabezal tres veces hacia el norte:
 
