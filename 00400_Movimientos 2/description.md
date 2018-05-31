@@ -16,7 +16,7 @@ Algunos ejemplos de `program`s:
   <tr>
     <td style="text-align: left">  
       <pre class="highlight gobstones"><code><span class="kr">program </span>{
-      }</code></pre>
+}</code></pre>
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
     <td style="text-align: left">
@@ -26,8 +26,8 @@ No hace nada
   <tr>
     <td style="text-align: left">  
       <pre class="highlight gobstones"><code><span class="kr">program </span>{
-        Mover(Norte)
-      }</code></pre>
+  Mover(Norte)
+}</code></pre>
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
     <td style="text-align: left">
@@ -37,9 +37,9 @@ Mueve el cabezal una posición hacia el norte
   <tr>
     <td style="text-align: left">  
       <pre class="highlight gobstones"><code><span class="kr">program </span>{
-        Mover(Norte)
-        Mover(Norte)
-      }</code></pre>
+  Mover(Norte)
+  Mover(Norte)
+}</code></pre>
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
     <td style="text-align: left">
