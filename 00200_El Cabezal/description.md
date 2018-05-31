@@ -1,4 +1,4 @@
-Como notaste en el ejercicio anterior, el tablero generado tenía una **celda** marcada:
+Como podés ver a continuación, el tablero generado tiene una **celda** marcada:
 
 <gs-board>
   GBB/1.0
@@ -6,9 +6,11 @@ Como notaste en el ejercicio anterior, el tablero generado tenía una **celda** 
     head 0 0
 </gs-board>
 
-¿Por qué ocurre esto? Porque nuestra máquina tiene un **cabezal**, que en todo momento está situado sobre una de las celdas del tablero y puede realizar distintas operaciones sobre ella (paciencia, ya las vamos a conocer :grin:).
+*¿Por qué ocurre esto?* Porque nuestra máquina tiene un **cabezal**, que en todo momento está situado sobre una de las celdas del tablero y nos permite realizar distintas operaciones sobre ella (paciencia, ya las vamos a conocer :grin:).
 
-Por ejemplo, el siguiente es un tablero de 5x2, con el cabezal en la segunda fila y la cuarta columna.
+Algo importante: fijate que contamos las filas desde abajo hacia arriba, y las columnas desde la izquierda hacia la derecha. La primera **fila** es la de **abajo** de todo, y la primera **columna** es la de la **izquierda**. *Pero además*, si prestás atención vas a ver que la primera fila es la **cero**, y la primera columna también es la **cero**. Esto es así porque en todos los lenguajes de programación *siempre* empezamos a contar desde el **cero**.
+
+Por ejemplo, el siguiente es un tablero de 5x2, con el cabezal en la segunda fila (fila número 1) y la cuarta columna (columna número 3).
 
 <gs-board>
   GBB/1.0
@@ -16,6 +18,6 @@ Por ejemplo, el siguiente es un tablero de 5x2, con el cabezal en la segunda fil
     head 3 1
 </gs-board>
 
-Algo importante: contamos las filas hacia arriba, y las columnas hacia la derecha. La primera **fila** es la de **abajo** de todo, y la primera **columna** es la de la **izquierda**.
+
 
 > ¿No te convence esto aún? Presioná Enviar y generaremos un tablero 3x3 con el cabezal en la segunda columna y tercera fila.
