@@ -11,6 +11,28 @@ La sintaxis de un `program` es bastante simple:
 Algunos ejemplos de `program`s:
 
 
+<table class= "table" style="width:100%">
+  <tbody>
+  <tr>
+    <td style="text-align: center">  
+      <gs-board>
+        GBB/1.0
+        size 3 3
+        head 0 0
+      </gs-board>
+    </td>
+    <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
+    <td style="text-align: center">
+(no hace nada)
+    </td>
+  </tr>
+  <tbody>
+</table>
+
+
+
+
+
 ```gobstones
 program {
 }
