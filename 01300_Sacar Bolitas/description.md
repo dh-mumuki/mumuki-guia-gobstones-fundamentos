@@ -1,4 +1,4 @@
-De la misma forma que hay un "poner bolita" (`Poner`), tenemos un "sacar bolita" (`Sacar`), que quita exactamente una bolita del color dado.
+De la misma forma que hay una forma de "poner bolita" (`Poner`), tenemos una forma de "sacar bolita" (`Sacar`), que quita exactamente una bolita del color dado.
 
 Por ejemplo, el siguiente programa saca dos bolitas de la posición inicial.
 
@@ -9,7 +9,7 @@ program {
 }
 ```
 
-> Sabiendo esto, escribí un programa que elimine **sólo** la bolita roja de este tablero. ¡Tené cuidado! Prestá atención a la posición del cabezal :wink:.
+> Sabiendo esto, escribí un programa que elimine **sólo** la bolita roja de este tablero. **¡Tené cuidado!** Prestá atención a la posición del cabezal :wink:
 
 <gs-board>
   GBB/1.0
