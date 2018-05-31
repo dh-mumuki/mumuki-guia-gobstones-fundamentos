@@ -1,12 +1,6 @@
-En este ejercicio vamos a aprender una de las órdenes que podemos darle a la máquina: mover el cabezal. Para eso, le indicaremos al cabezal la dirección en la que tiene que moverse usando los puntos cardinales:
+Hasta ahora lo que hiciste no fue muy emocionante, porque no te enseñamos cómo darle instrucciones a la máquina y sólo te mostramos un tablero. En este ejercicio vamos a aprender una de las órdenes que podemos darle a la máquina: mover el cabezal.
 
-* Norte (arriba)
-* Sur (abajo)
-* Este (derecha)
-* Oeste (izquierda)
-
-
-Por ejemplo, partiendo de un tablero **inicial** vacío, podemos fácilmente escribir un programa que mueva el cabezal una posición hacia el **Norte**:
+Por ejemplo, partiendo de un tablero **inicial** vacío, podemos fácilmente escribir un programa que mueva el cabezal una posición hacia el **norte**:
 
 <table class= "table" style="width:100%">
   <thead>
@@ -37,7 +31,7 @@ Por ejemplo, partiendo de un tablero **inicial** vacío, podemos fácilmente esc
   <tbody>
 </table>
 
-El **código** del programa que logra esto (es decir, el **texto** de la solución que le daremos a la computadora) es el siguiente:
+El **código** del programa (es decir, el **texto** de la descripción de la solución que le daremos a la computadora) que logra esto es el siguiente:
 
 ```gobstones
 program {
@@ -45,7 +39,4 @@ program {
 }
 ```
 
-**Ojo** :eyes:  
-¡Fijate que siempre escribimos las direcciones con la inicial en mayúscula!
-
-> ¿No nos creés? Escribí el código anterior en el editor y dale **Enviar**.
+> ¿No nos creés? Escribí el código anterior en el editor y dale Enviar.
