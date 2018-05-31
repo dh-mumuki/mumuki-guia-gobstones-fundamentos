@@ -1,13 +1,4 @@
-Cuando trabajamos en Gobstones, hacemos las cosas en un cierto orden. Por ejemplo, si tenemos este programa:
-
-```gobstones
-program {
-  Mover(Norte)
-  Mover(Norte)
-  Mover(Este)
-  Mover(Este)
-}
-```
+Cuando trabajamos en Gobstones, hacemos las cosas en un cierto orden. Por ejemplo, pensemos que dado el siguiente tablero inicial, queremos mover el cabezal a la esquina noreste:
 
 <table class= "table" style="width:100%">
   <thead>
@@ -23,7 +14,7 @@ program {
       <gs-board>
         GBB/1.0
         size 3 3
-        head 0 2
+        head 0 0
       </gs-board>
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
@@ -31,12 +22,23 @@ program {
       <gs-board>
         GBB/1.0
         size 3 3
-        head 2 1
+        head 2 2
       </gs-board>
     </td>
   </tr>
   <tbody>
 </table>
+
+Si tenemos el siguiente programa:
+
+```gobstones
+program {
+  Mover(Norte)
+  Mover(Norte)
+  Mover(Este)
+  Mover(Este)
+}
+```
 
 una forma posible de leerlo (llamada **operacional**) es como lo haría una máquina: en orden, de arriba hacia abajo:
 
