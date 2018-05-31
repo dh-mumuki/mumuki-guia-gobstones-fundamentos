@@ -16,6 +16,6 @@ program {
 }
 ```
 
-Moraleja: como te decíamos al principio ¡no hay una sóla forma de resolver un problema!
+Moraleja: **¡no hay una sóla forma de resolver un problema!**
 
-Y además, el orden, **a veces**, no es tan importante. Acompañanos a entender mejor esto.
+Y además, el orden, *a veces*, no es tan importante. Avanzá al siguiente ejercicio para entender mejor esto.
