@@ -1,3 +1,5 @@
 No quedó muy lindo el programa, ¿no?
 
 Por ahora no podemos hacer nada mejor, pero para que lo vayas pensando: una particularidad de nuestra bandera es su simetría, la franja de arriba es exactamente igual a la de abajo. Si pudieramos crear un comando que dibuje la franja celeste tantas veces como quisiéramos nuestro programa quedaría mucho más simple...
+
+Más adelante vamos a ver como hacer estructuras más complejas usando Javascript, el lenguaje que vamos a usar para programar en los próximos ejercicios.
