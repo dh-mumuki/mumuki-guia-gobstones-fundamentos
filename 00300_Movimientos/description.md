@@ -45,7 +45,7 @@ program {
 }
 ```
 
-Ojo :eyes:  
+**Ojo** :eyes:  
 ¡Fijate que siempre escribimos las direcciones con la inicial en mayúscula!
 
 > ¿No nos creés? Escribí el código anterior en el editor y dale **Enviar**.
