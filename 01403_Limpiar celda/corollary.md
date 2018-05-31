@@ -1,0 +1,1 @@
+¡Buenísimo! Ahora que ya sabes `Poner` y `Sacar` bolitas, y `Mover` el cabezal por el tablero, estamos listos para los ejercicios divertidos! :muscle:
