@@ -1,1 +1,1 @@
-¡Felicitaciones! Acabás de escribir un programa que pone una bolita roja en la celda actual.
+¡Felicitaciones! Acabás de escribir un programa que pone una bolita roja en la celda actual. Te imaginás como se hace para poner muchas bolitas de distintos colores?
