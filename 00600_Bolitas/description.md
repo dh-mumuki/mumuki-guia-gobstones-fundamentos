@@ -1,4 +1,5 @@
 Genial :smile:!!!.
+
 Ya entendiste cómo mover el cabezal del tablero usando la operación `Mover` y las direcciones (`Sur`, `Oeste`, etc). Vayamos un paso más allá: las **bolitas**.
 
 En cualquier celda de nuestro tablero podemos poner `bolitas`. Las hay de distintos colores:
