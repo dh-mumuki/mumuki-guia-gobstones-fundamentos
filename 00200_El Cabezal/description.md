@@ -1,4 +1,4 @@
-Como podés ver a continuación, el tablero generado tiene una **celda** marcada:
+Como podés ver a continuación, el nuevo tablero que generamos tiene una **celda** marcada:
 
 <gs-board>
   GBB/1.0
@@ -20,4 +20,4 @@ Por ejemplo, el siguiente es un tablero de 5x2, con el cabezal en la segunda fil
 
 
 
-> ¿No te convence esto aún? Presioná Enviar y generaremos un tablero 3x3 con el cabezal en la segunda columna y tercera fila.
+> ¿No te convence esto aún? Presioná **Continuar** y empezaremos a trabajar con un tablero de 3 celdas de ancho x 3 celdas de alto.
