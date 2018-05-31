@@ -15,10 +15,10 @@ Algunos ejemplos de `program`s:
   <tbody>
   <tr>
     <td style="text-align: left">  
-      <pre class="highlight gobstones">
+      <pre class="highlight gobstones"><code>
       program {
       }
-      </pre>
+      </code></pre>
     </td>
     <td style="text-align: center"><i class="fa fa-arrow-right"></i></td> 
     <td style="text-align: left">
