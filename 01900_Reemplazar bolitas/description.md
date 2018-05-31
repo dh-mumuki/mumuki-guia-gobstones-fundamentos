@@ -1,6 +1,9 @@
 ¿Ya te estás durmiendo? :sleeping:
 
-Pasemos a algo un poco más difícil entonces. Te vamos a dar un tablero de **2x2** (o sea, con 4 celdas) donde cada una de ellas tiene **una bolita roja**. Tu tarea es escribir un programa que **reemplace** todas las bolitas rojas por verdes.
+Pasemos a algo un poco más difícil entonces. Te vamos a dar un tablero de **2x2** (o sea, con 4 celdas) donde cada una de ellas tiene **una bolita roja**.
+
+> Tu tarea es escribir un programa que **reemplace** todas las bolitas rojas por verdes.  
+**¡Ojo!** Fijate en la representación más abajo: el cabezal debe quedar en la esquina inferior derecha :wink:
 
 <table class= "table" style="width:100%">
   <thead>
@@ -32,7 +35,7 @@ Pasemos a algo un poco más difícil entonces. Te vamos a dar un tablero de **2x
         cell 0 1 Verde 1
         cell 1 0 Verde 1
         cell 1 1 Verde 1
-        head 0 1
+        head 0 0
       </gs-board>
     </td>
   </tr>
