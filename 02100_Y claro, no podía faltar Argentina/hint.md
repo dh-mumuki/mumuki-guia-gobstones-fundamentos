@@ -1,0 +1,1 @@
+Ojo, fijate que según el gráfico el cabezal debe quedar en la misma posición donde estaba cuando empezó la ejecución del programa.
