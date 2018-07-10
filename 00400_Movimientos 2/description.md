@@ -1,10 +1,10 @@
 Entendamos qué es lo que acabamos de hacer. Aunque no lo creas, acabamos de **escribir un programa**.
 
-Todo programa tiene una sección de código donde se declaran los comandos (acciones) que queremos que la máquina realice. Al *correr* un programa, se *ejecutan* los comandos, y obtenemos un resultado. 
+Todo programa tiene una sección de código donde se declaran los comandos (acciones) que queremos que la máquina realice. Al *correr* un programa, se *ejecutan* los comandos, y obtenemos un *resultado*. 
 
 En el lenguaje `Gobstones` esta sección de código de denomina `program`. En esta sección se van a correr los comandos que queremos que la máquina realice sobre el tablero **inicial** y cuyo resultado visualizaremos en el tablero **final**.
 
-La sintaxis de un `program` en `Gobstones` es bastante simple:
+La sintaxis del `program` en `Gobstones` es bastante simple:
 
 1. escribimos una línea (renglón) que diga `program` (en minúscula), seguido de una llave de apertura: `{`
 1. a continuación, los comandos: uno en cada línea
