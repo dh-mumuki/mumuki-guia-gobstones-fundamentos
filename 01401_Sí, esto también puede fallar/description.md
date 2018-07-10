@@ -1,4 +1,4 @@
-Hasta ahora veníamos tratando de esquivar el asunto, pero seguro ya habrás pensado que tiene que haber alguna forma de romper esto (incluso es posible que, si no nos diste mucha bola en los ejercicios anteriores, ya lo hayas experimentado).
+Hasta ahora veníamos tratando de esquivar el asunto, pero seguro ya habrás pensado que tiene que haber alguna forma de que esto falle (incluso es posible que ya lo hayas experimentado).
 
 Si bien **nunca** vamos a querer que nuestro programa se rompa, es algo que definitivamente **te va a pasar muchas veces**. Pero no es motivo para frustrarse ni mucho menos, te aseguramos que a todo el mundo le pasó alguna vez (bueno, también 2, 3, 100, 800 veces...). 
 
