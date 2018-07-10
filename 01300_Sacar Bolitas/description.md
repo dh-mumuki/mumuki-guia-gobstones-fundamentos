@@ -1,6 +1,6 @@
-De la misma forma que hay una forma de "poner bolita" (`Poner`), tenemos una forma de "sacar bolita" (`Sacar`), que quita exactamente una bolita del color dado.
+De la misma forma que uno puede dar el comando de "poner bolita" (`Poner`), tenemos una forma de "sacar bolita" (`Sacar`), que quita exactamente una bolita del color dado.
 
-Por ejemplo, el siguiente programa saca dos bolitas de la posición inicial.
+Por ejemplo, el siguiente programa saca dos bolitas de color Rojo de la posición inicial.
 
 ```gobstones
 program {
