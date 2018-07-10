@@ -1,6 +1,4 @@
-Fijate que no te dijimos cómo es el tablero sobre el que ejecutaremos este programa, ni dónde está el cabezal.
-
-Y eso es porque.... ¡no te debe importar!
+Fijate que no te dijimos cómo es el tablero sobre el que ejecutaremos este programa, ni en que posición exacta está el cabezal, ya que no necesitas esta información para resolver el problema.
 
 De todas formas, sólo por esta vez y como ayudita te mostramos el tablero sobre el que ejecutaremos tu programa:
 
