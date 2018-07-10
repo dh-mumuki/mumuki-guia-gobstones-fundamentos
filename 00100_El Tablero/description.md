@@ -1,4 +1,4 @@
-Para poder comunicarnos con la computadora, aprenderemos a programar usando un lenguaje de programación. Pero antes de empezar a programar, tenemos que aprender a pensar de la misma forma que piensa una computadora. Para eso vamos a usar `Gobstones`, un lenguaje de programación en el que trabajamos con **bolitas** que se mueven por un **tablero** cuadriculado, similar al del Ajedrez, Damas o [Go](http://es.wikipedia.org/wiki/Go).
+Para poder comunicarnos con la computadora, aprenderemos a programar usando JavaScript, uno de los lenguajes de programación más utilizados. Pero antes de empezar a programar en JavaScript, tenemos que aprender a pensar de la misma forma que piensa una computadora. Para eso vamos a usar `Gobstones`, un lenguaje de programación en el que trabajamos con **bolitas** que se mueven por un **tablero** cuadriculado, similar al del Ajedrez, Damas o [Go](http://es.wikipedia.org/wiki/Go).
 
 Estos tableros pueden ser de cualquier tamaño, por ejemplo: 
 
