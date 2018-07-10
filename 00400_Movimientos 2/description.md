@@ -1,8 +1,8 @@
 Entendamos qué es lo que acabamos de hacer. Aunque no lo creas, acabamos de **escribir un programa**.
 
-Todo programa tiene exactamente un elemento `program`: una sección del código donde se declaran los comandos (acciones) que queremos que la máquina realice sobre el tablero **inicial**. Al *correr* un programa, se *ejecutan* los comandos, y obtenemos como resultado un tablero **final**.
+Todo programa tiene exactamente un elemento: una sección del código donde se declaran los comandos (acciones) que queremos que la máquina realice sobre el tablero **inicial**. Al *correr* un programa, se *ejecutan* los comandos, y obtenemos como resultado un tablero **final**. 
 
-La sintaxis de un `program` es bastante simple:
+En el lenguaje `Gobstones` esta sección de código de denomina `program`. La sintaxis de un `program` es bastante simple:
 
 1. escribimos una línea (renglón) que diga `program` (en minúscula), seguido de una llave de apertura: `{`
 1. a continuación, los comandos: uno en cada línea
