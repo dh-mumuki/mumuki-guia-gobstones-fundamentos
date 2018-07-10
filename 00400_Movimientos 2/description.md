@@ -1,6 +1,6 @@
 Entendamos qué es lo que acabamos de hacer. Aunque no lo creas, acabamos de **escribir un programa**.
 
-Todo programa una sección de código donde se declaran los comandos (acciones) que queremos que la máquina realice sobre el tablero **inicial**. Al *correr* un programa, se *ejecutan* los comandos, y obtenemos como resultado un tablero **final**. 
+Todo programa tiene una sección de código donde se declaran los comandos (acciones) que queremos que la máquina realice sobre el tablero **inicial**. Al *correr* un programa, se *ejecutan* los comandos, y obtenemos como resultado un tablero **final**. 
 
 En el lenguaje `Gobstones` esta sección de código de denomina `program`. La sintaxis de un `program` es bastante simple:
 
