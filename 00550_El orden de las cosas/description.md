@@ -40,7 +40,7 @@ program {
 }
 ```
 
-una forma posible de leerlo (llamada **operacional**) es como lo haría una máquina: en orden, de arriba hacia abajo:
+una forma posible de leerlo (llamada **secuencial**) es como lo haría una máquina: en orden, de arriba hacia abajo:
 
 1. primero se mueve al norte: `Mover(Norte)`
 1. luego se mueve al norte nuevamente: `Mover(Norte)`
