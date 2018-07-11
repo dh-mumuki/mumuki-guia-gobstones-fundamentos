@@ -1,6 +1,6 @@
-¡Veamos un primer ejemplo!
+¡Veamos el siguiente programa!
 
-El siguiente programa coloca una bolita roja en la posición inicial y una negra al este.
+Este programa coloca una bolita roja en la posición inicial y una negra al este.
 
 ```gobstones
 program {
