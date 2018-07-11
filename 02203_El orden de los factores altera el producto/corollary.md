@@ -26,7 +26,7 @@ program {
   Poner(Rojo)
 }
 ```
-ejecuta secuencialmente:
+secuencialmente:
 
 1. Pone una bolita negra
 1. se mueve al este
