@@ -11,11 +11,13 @@ program {
 ```
 secuencialmente:
 
-se mueve al este
-luego pone una bolita roja
-luego pone una bolita negra
+1. se mueve al este
+1. luego pone una bolita roja
+1. luego pone una bolita negra
+
 Es decir: pone una bolita roja y una bolita negra al este de la posición inicial.
 
+Mientras que el segundo programa
 
 ```puppet
 program {
@@ -24,10 +26,11 @@ program {
   Poner(Rojo)
 }
 ```
-secuencialmente:
+ejecuta secuencialmente:
 
-Pone una bolita negra
-se mueve al este
-luego pone una bolita roja
+1. Pone una bolita negra
+1. se mueve al este
+1. luego pone una bolita roja
+
 Es decir: pone una bolita negra en la posición inicial y una bolita roja al este de la bolita negra.
 
