@@ -12,29 +12,10 @@ program {
 
 Operacionalmente:
 
-1. pone una roja
+1. pone una bolita roja
 1. luego se mueve al este
-1. luego pone una negra
+1. luego pone una bolita negra
 
-Es decir: pone una roja en la posicion inicial, y una negra al este
+Es decir: pone una bolita roja en la posicion inicial, y una bolita negra al este
 
-Y ahora mirá este otro:
-
-```puppet
-program {
-  Mover(Este)
-  Poner(Rojo)
-  Poner(Negro)
-}
-```
-
-Operacionalmente:
-
-1. se mueve al este
-1. luego pone una roja
-1. luego pone una negra
-
-Es decir: pone una roja y una negra al este de la posición inicial.
-
-Moraleja: ¡no hacen lo mismo! Cambiar el orden nos cambió el _qué_.
 
