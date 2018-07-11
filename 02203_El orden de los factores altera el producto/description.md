@@ -1,5 +1,6 @@
+Ahora que estamos combinando operaciones, y como te comentamos previamente, hay que tener más cuidado con el orden de los comandos.
 
-¿Estos programas hacen lo mismo?
+Teniendo en cuenta esto, contestá... ¿Qué hacen estos programas?
 
 ```puppet
 program {
