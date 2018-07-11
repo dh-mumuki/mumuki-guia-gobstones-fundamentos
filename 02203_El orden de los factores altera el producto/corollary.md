@@ -1,6 +1,7 @@
 Moraleja: ¡no hacen lo mismo! Cambiar el orden nos cambió el qué.
 
 El primer programa 
+
 ```puppet
 program {
   Mover(Este)
