@@ -28,5 +28,5 @@ secuencialmente:
 Pone una bolita negra
 se mueve al este
 luego pone una bolita roja
-Es decir: pone una bolita negra en la posición inicial y una bolita roja al este de la posición inicial.
+Es decir: pone una bolita negra en la posición inicial y una bolita roja al este de la bolita negra.
 
