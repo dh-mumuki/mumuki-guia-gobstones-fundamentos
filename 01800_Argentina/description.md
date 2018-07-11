@@ -8,13 +8,13 @@ Como no nos vamos a poner tan quisquillosos, te vamos a pedir una versión simpl
      size 4 3
      cell 0 0 Azul 1
      cell 1 0 Azul 1
+     cell 2 0 Azul 1
      cell 3 0 Azul 1
-     cell 4 0 Azul 1
-     cell 0 3 Azul 1
-     cell 1 3 Azul 1
-     cell 3 3 Azul 1
-     cell 4 3 Azul 1
-     head 4 3
+     cell 0 2 Azul 1
+     cell 1 2 Azul 1
+     cell 2 2 Azul 1
+     cell 3 2 Azul 1
+     head 3 2
 <gs-board>
 
 *Acordate que el cabezal empieza en el origen.*
