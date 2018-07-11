@@ -1,4 +1,4 @@
-Moraleja: ¡no hacen lo mismo! Cambiar el orden nos cambió el qué.
+Moraleja: ¡no hacen lo mismo! Cambiar el orden nos cambió el objetivo, es decir el qué.
 
 El primer programa 
 
