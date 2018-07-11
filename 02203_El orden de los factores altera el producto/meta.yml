@@ -1,0 +1,21 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: Ejecuta los mismos comandos, en el mismo orden y llegan al mismo tablero
+    final.
+  checked: false
+- value: Ejecuta los mismos comandos, en diferente orden y llegan al mismo tablero
+    final.
+  checked: false
+- value: Ejecuta los mismos comandos, en diferente orden y llegan a diferentes tableros
+    finales.
+  checked: true
+- value: Ejecuta los mismos comandos, en el mismo orden y llegan a diferentes tableros
+    finales
+  checked: false
