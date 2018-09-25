@@ -19,3 +19,4 @@ choices:
 - value: Ejecutan los mismos comandos, en el mismo orden y llegan a diferentes tableros
     finales
   checked: false
+name: El orden de los factores altera el producto

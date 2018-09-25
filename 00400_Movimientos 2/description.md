@@ -2,7 +2,7 @@ Entendamos qué es lo que acabamos de hacer. Aunque no lo creas, acabamos de **e
 
 Todo programa tiene una sección de código donde se declaran los comandos (acciones) que queremos que la máquina realice. Al *correr* un programa, se *ejecutan* los comandos, y obtenemos un *resultado*. 
 
-En el lenguaje `Gobstones` esta sección de código de denomina `program`. En esta sección se van a correr los comandos que queremos que la máquina realice sobre el tablero **inicial** y cuyo resultado visualizaremos en el tablero **final**.
+En el lenguaje `Gobstones` esta sección de código se denomina `program`. En esta sección se van a correr los comandos que queremos que la máquina realice sobre el tablero **inicial** y cuyo resultado visualizaremos en el tablero **final**.
 
 La sintaxis del `program` en `Gobstones` es bastante simple:
 
