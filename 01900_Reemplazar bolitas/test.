@@ -1,3 +1,5 @@
+check_board_position: true
+
 examples:
  - initial_board: |
      GBB/1.0
