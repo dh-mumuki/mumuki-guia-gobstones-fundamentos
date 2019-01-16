@@ -1,4 +1,4 @@
-check_board_position: false
+check_board_position: true
 
 examples:
  - initial_board: |
