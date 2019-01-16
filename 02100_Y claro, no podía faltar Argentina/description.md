@@ -24,3 +24,5 @@ Aunque como en Gobstones no hay amarillo, nos vamos a tomar el atrevimiento de c
     cell 0 0 Azul 1
     head 0 0
 </gs-board>
+
+Ojo, fijate que según el gráfico el cabezal debe quedar en la misma posición donde estaba cuando empezó la ejecución del programa.

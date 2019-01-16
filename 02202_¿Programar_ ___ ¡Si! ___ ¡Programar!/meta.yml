@@ -7,11 +7,14 @@ extra_visible: false
 language: text
 manual_evaluation: false
 choices:
-- value: 'A través de un idioma que tanto ella como las personas podamos entender:  los
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 'A través de un idioma que tanto ella como las personas podamos entender:  los
     lenguajes de programación.'
   checked: true
-- value: 'A través de un idioma que tanto ella como las personas podamos entender:  inglés.'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: 'A través de un idioma que tanto ella como las personas podamos entender:  inglés.'
   checked: false
-- value: A través de cálculos matemáticos.
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: A través de cálculos matemáticos.
   checked: false
 name: "¿Programar? ... ¡Si! ... ¡Programar!"
