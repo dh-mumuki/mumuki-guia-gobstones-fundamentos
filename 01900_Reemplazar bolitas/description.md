@@ -34,7 +34,7 @@ Pasemos a algo un poco más difícil entonces. Te vamos a dar un tablero de **2x
         cell 0 1 Verde 1
         cell 1 0 Verde 1
         cell 1 1 Verde 1
-        head 0 0
+        head 0 1
       </gs-board>
     </td>
   </tr>
